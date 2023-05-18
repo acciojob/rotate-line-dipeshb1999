@@ -1,9 +1,9 @@
 //your JS code here. If required.
      #line {
-            position: relative;
+            position: absolute;
             width: 200px;
             height: 2px;
-            background-color: black;
+            background-color: rgb(0,0,0);
             animation: rotate 2s linear infinite;
         }
 
